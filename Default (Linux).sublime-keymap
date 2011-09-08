@@ -1,0 +1,6 @@
+[
+  { "keys": ["ctrl+d"], "command": "duplicate_line" },
+  { "keys": ["alt+up"], "command": "swap_line_up" },
+  { "keys": ["alt+down"], "command": "swap_line_down" },
+  { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto"} }
+]
