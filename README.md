@@ -8,7 +8,6 @@ Installing:
     $ cd ~/.config/sublime-text-2/Packages # Linux
     $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages # Mac OS X
     $ git clone git://github.com/asux/sublime-user-packages.git User
-    $ cd User
     $ git clone git://github.com/buymeasoda/soda-theme.git 'Theme - Soda' # install Soda theme
 
 Update:
