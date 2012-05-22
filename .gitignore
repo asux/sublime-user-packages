@@ -1,1 +1,3 @@
 SublimeREPLHistory
+*.cache
+Package Control.sublime-settings

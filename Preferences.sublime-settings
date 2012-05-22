@@ -3,7 +3,7 @@
 	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", ".project"],
     "theme": "Pseudo OSX.sublime-theme",
     "font_face": "Monaco",
-    "font_size": 14,
+    "font_size": 10,
     // The number of spaces a tab is considered equal to
     "tab_size": 2,
 

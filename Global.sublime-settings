@@ -3,5 +3,5 @@
 {
 	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".redcar", ".bundle"],
 	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", ".project"],
-    "theme": "Soda Dark.sublime-theme"
+  "theme": "Soda Dark.sublime-theme"
 }

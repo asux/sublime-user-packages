@@ -1,11 +1,11 @@
 {
-	"auto_upgrade_last_run": 1337674316,
+	"auto_upgrade_last_run": 1337711432,
 	"installed_packages":
 	[
-		"GitHub.app Menu",
+		"CTags",
+		"Git",
+		"Markdown Preview",
 		"Package Control",
-		"Rake",
-		"RSpec",
 		"SublimeREPL",
 		"Theme - Pseudo OSX"
 	]
