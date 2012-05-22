@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": 1337674316,
+	"installed_packages":
+	[
+		"GitHub.app Menu",
+		"Package Control",
+		"Rake",
+		"RSpec",
+		"SublimeREPL",
+		"Theme - Pseudo OSX"
+	]
+}
