@@ -1,4 +1,5 @@
 {
+	"color_scheme": "Packages/User/Themes/Railscasts.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -31,5 +32,8 @@
 		".redcar",
 		".bundle"
 	],
+	"font_face": "Monaco",
+	"font_size": 11,
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
