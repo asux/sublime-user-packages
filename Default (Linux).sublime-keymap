@@ -1,6 +1,3 @@
 [
-    { "keys": ["ctrl+d"], "command": "duplicate_line" },
-    { "keys": ["alt+up"], "command": "swap_line_up" },
-    { "keys": ["alt+down"], "command": "swap_line_down" },
-    { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto"} }
+    { "keys": ["ctrl+k", "ctrl+t"], "command": "delete_trailing_spaces" }
 ]
