@@ -1,0 +1,45 @@
+{
+	"auto_upgrade_last_run": 1343308799,
+	"installed_packages":
+	[
+		"Alignment",
+		"BeautifyRuby",
+		"CoffeeScript",
+		"CTags",
+		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
+		"Git",
+		"GitHubinator",
+		"Guard",
+		"HTML5",
+		"INI",
+		"jQuery",
+		"KWrite Color Scheme",
+		"LinkOpener",
+		"Package Control",
+		"Quick File Creator",
+		"Rails Partial",
+		"RailsCasts Colour Scheme",
+		"RSpec",
+		"Ruby 1.9 Hash Converter",
+		"RubyTest",
+		"Search in Browser",
+		"Simple Rails Navigator",
+		"sublime-capybara-snippets",
+		"SublimeCodeIntel",
+		"Sweyla's Color Theme Generator",
+		"TextFormatting",
+		"Theme - Pseudo OSX",
+		"Theme - Soda",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/asux/sublime-capybara-snippets"
+	],
+	"repository_channels":
+	[
+		"https://github.com/asux/package_control_channel/raw/master/repositories.json",
+		"https://sublime.wbond.net/repositories.json"
+	]
+}
