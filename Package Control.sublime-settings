@@ -32,6 +32,7 @@
 		"SideBarGit",
 		"Simple Rails Navigator",
 		"sublime-capybara-snippets",
+		"sublime-tomorrow-theme",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeREPL",
@@ -43,11 +44,13 @@
 	],
 	"repositories":
 	[
-		"https://github.com/asux/sublime-capybara-snippets"
+		"https://github.com/asux/sublime-capybara-snippets",
+		"https://github.com/asux/sublime-tomorrow-theme"
 	],
 	"repository_channels":
 	[
 		"https://github.com/asux/package_control_channel/raw/master/repositories.json",
+		"https://github.com/theymaybecoders/package_control_channel/raw/master/repositories.json",
 		"https://sublime.wbond.net/repositories.json"
 	]
 }
