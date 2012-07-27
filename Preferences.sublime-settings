@@ -1,37 +1,5 @@
 {
-	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
-	"file_exclude_patterns":
-	[
-		"*.pyc",
-		"*.pyo",
-		"*.exe",
-		"*.dll",
-		"*.obj",
-		"*.o",
-		"*.a",
-		"*.lib",
-		"*.so",
-		"*.dylib",
-		"*.ncb",
-		"*.sdf",
-		"*.suo",
-		"*.pdb",
-		"*.idb",
-		".DS_Store",
-		"*.class",
-		"*.psd",
-		"*.db",
-		".project"
-	],
-	"folder_exclude_patterns":
-	[
-		".svn",
-		".git",
-		".hg",
-		"CVS",
-		".redcar",
-		".bundle"
-	],
+	"color_scheme": "Packages/User/Themes/OldVim.tmTheme",
 	"font_face": "PT Mono",
 	"font_size": 13,
 	"ignored_packages":

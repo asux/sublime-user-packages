@@ -1,10 +1,11 @@
 {
-	"auto_upgrade_last_run": 1343334652,
+	"auto_upgrade_last_run": 1343389332,
 	"installed_packages":
 	[
 		"Alignment",
 		"BeautifyRuby",
 		"CoffeeScript",
+		"CSS Less(ish)",
 		"CTags",
 		"DetectSyntax",
 		"ERB Insert and Toggle Commands",
@@ -15,6 +16,7 @@
 		"INI",
 		"jQuery",
 		"KWrite Color Scheme",
+		"LESS",
 		"LinkOpener",
 		"Markdown Preview",
 		"Package Control",
@@ -31,6 +33,7 @@
 		"Simple Rails Navigator",
 		"sublime-capybara-snippets",
 		"SublimeCodeIntel",
+		"SublimeLinter",
 		"SublimeREPL",
 		"Sweyla's Color Theme Generator",
 		"TextFormatting",
