@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1343839167,
+	"auto_upgrade_last_run": 1350561748,
 	"installed_packages":
 	[
 		"Alignment",
@@ -40,6 +40,7 @@
 		"Theme - Pseudo OSX",
 		"Theme - Soda",
 		"Tomorrow Color Schemes",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"zenburn"
 	]
 }

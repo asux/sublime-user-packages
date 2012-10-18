@@ -1,7 +1,16 @@
 {
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
-	"font_face": "PT Mono",
-	"font_size": 13,
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		".yardoc"
+	],
+	"font_face": "Monaco",
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
