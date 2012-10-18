@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+attr_accessible ${1:this}
+]]></content>
+    <tabTrigger>aa</tabTrigger>
+    <scope>source.ruby</scope>
+</snippet>
