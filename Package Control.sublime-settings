@@ -1,11 +1,12 @@
 {
-	"auto_upgrade_last_run": 1350561748,
+	"auto_upgrade_last_run": 1352713102,
 	"installed_packages":
 	[
 		"Alignment",
 		"BeautifyRuby",
 		"Capybara Snippets",
 		"CoffeeScript",
+		"Creole",
 		"CSS Less(ish)",
 		"CTags",
 		"DetectSyntax",
