@@ -1,5 +1,6 @@
 {
-	"translate_tabs_to_spaces": true,
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -9,13 +10,12 @@
 		".sass-cache",
 		".yardoc"
 	],
+	"font_face": "Aurulent Sans Mono",
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"ensure_newline_at_eof_on_save": true,
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
-	"font_face": "Aurulent Sans Mono",
-	"font_size": 14,
-	"theme": "Soda Dark.sublime-theme"
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
