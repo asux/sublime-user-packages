@@ -1,0 +1,3 @@
+{
+    "file_patterns": [ "\\.html\\.erb", "\\.html\\.haml", "\\.html\\.slim", "\\.rb", "\\.rake", "Rakefile", "Gemfile" ]
+}
