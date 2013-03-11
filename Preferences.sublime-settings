@@ -1,30 +1,46 @@
 {
-    "binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "*.scssc"],
-    // Valid values are "smooth", "phase", "blink", "wide" and "solid".
-    "caret_style": "phase",
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.scssc"
+	],
+	"caret_style": "phase",
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
-    "folder_exclude_patterns":
-    [
-        ".svn",
-        ".git",
-        ".hg",
-        "CVS",
-        ".sass-cache",
-        ".yardoc",
-        "doc",
-        "coverage",
-        "tmp/cache"
-    ],
-	"font_face": "Monaco",
-	"font_size": 12,
-	// Makes tabs with modified files more visible
- 	// If enabled, will highlight any line with a caret
-    "highlight_line": true,
-    "highlight_modified_tabs": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		".yardoc",
+		"doc",
+		"coverage",
+		"tmp/cache"
+	],
+	"font_face": "Ubuntu Mono",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"theme": "Phoenix Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	// Set to true to removing trailing white space on save
-    "trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true
 }
