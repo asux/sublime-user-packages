@@ -32,14 +32,18 @@
 		"coverage",
 		"tmp/cache"
 	],
-	"font_face": "Ubuntu Mono",
-	"font_size": 14,
+	"font_face": "Monaco",
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"phoenix_color_expanded_folder": true,
+	"phoenix_color_green": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_sidebar_font_xlarge": true,
 	"theme": "Phoenix Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
