@@ -2,8 +2,9 @@
 	"extensions":
 	[
 		".autotest",
-        ".rake",
-        ".ru"
+		".rake",
+		".ru",
+		"ru"
 	],
 	"tab_size": 2
 }

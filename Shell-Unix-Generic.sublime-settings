@@ -1,6 +1,8 @@
 {
 	"extensions":
 	[
-		"ebuild"
+		"ebuild",
+		".powrc",
+		".zshrc"
 	]
 }
