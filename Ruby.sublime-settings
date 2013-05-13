@@ -4,7 +4,8 @@
 		".autotest",
 		".rake",
 		".ru",
-		"ru"
+		"ru",
+		"Guardfile"
 	],
 	"tab_size": 2
 }
