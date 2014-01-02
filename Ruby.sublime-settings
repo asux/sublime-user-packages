@@ -5,7 +5,8 @@
 		".rake",
 		".ru",
 		"ru",
-		"Guardfile"
+		"Guardfile",
+		"thor"
 	],
 	"tab_size": 2
 }
