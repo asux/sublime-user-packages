@@ -1,7 +1,8 @@
 {
 	"extensions":
 	[
-		"jbuilder"
+		"jbuilder",
+		"rabl"
 	],
 	"tab_size": 2
 }

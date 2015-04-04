@@ -17,7 +17,7 @@
 		"*.scssc"
 	],
 	"caret_style": "phase",
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
 	"folder_exclude_patterns":
@@ -32,19 +32,20 @@
 		"coverage",
 		"tmp/cache"
 	],
-	"font_face": "Source Code Pro",
-	"font_size": 16,
+	"font_face": "Menlo",
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"icon_file_type_enable": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Sublimerge Pro",
+		"Vintage",
+		"Color Highlighter"
 	],
-	"phoenix_color_expanded_folder": true,
-	"phoenix_color_green": true,
-	"phoenix_highlight_current_tab": true,
-	"phoenix_sidebar_font_xlarge": true,
-	"theme": "Phoenix Dark.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"itg_small_tabs": true,
+	"phoenix_sidebar_font_large": true,
+	"theme": "Cobalt2.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"wombat_color_orange": true
 }

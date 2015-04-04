@@ -1,5 +1,6 @@
 SublimeREPLHistory
 RubyTest.last-run
 Package Control.last-run
-PAckage Control.ca*
+Package Control.*ca*
 *.cache
+Gist.sublime-settings

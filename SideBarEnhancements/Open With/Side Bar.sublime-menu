@@ -29,6 +29,17 @@
 									"extensions":"\\.(md|markdown)$" //any file with extension
 								}
 			},
+			{
+				"caption": "LightPaper",
+				"id": "side-bar-files-open-with-lightpaper",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "/Applications/LightPaper.app/Contents/MacOS/LightPaper",
+									"extensions":"\\.(md|markdown)$" //any file with extension
+								}
+			},
 			{"caption":"-"}
 		]
 	}

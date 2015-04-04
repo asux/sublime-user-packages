@@ -6,7 +6,9 @@
 		".ru",
 		"ru",
 		"Guardfile",
-		"thor"
+		"thor",
+		".simplecov",
+		".pryrc"
 	],
 	"tab_size": 2
 }
